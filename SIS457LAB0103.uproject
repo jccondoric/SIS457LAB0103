@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SIS457LAB0103",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
